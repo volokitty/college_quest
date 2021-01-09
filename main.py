@@ -1,4 +1,4 @@
-# volokitty
+# volokitty, yeah that's me
 
 from instruction import *
 from core import *
